@@ -508,3 +508,6 @@
 2019-09-03 16:45:01,184 - pageObjects.SignUpElements -INFO - User wants to change the phone number
 2019-09-03 16:52:29,929 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
 2019-09-03 16:52:53,469 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 17:00:35,682 - pageObjects.SignUpElements -INFO - User wants to change the phone number
+2019-09-03 17:04:19,357 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 17:06:52,678 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button

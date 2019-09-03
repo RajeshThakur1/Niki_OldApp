@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [NikiAndroidApp_English]" parallel="tests">
+  <listeners>
+    <listener class-name="generic.Reporting"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Niki-Android_App_English(failed)" parallel="tests">
+    <classes>
+      <class name="com.Niki_Old.TestCases.Login">
+        <methods>
+          <include name="verifyAllowAppPopup"/>
+          <include name="verifyReEnterPhNo"/>
+          <include name="verifyCorrectOTP"/>
+          <include name="verifyGetStartedScreen"/>
+          <include name="verifyClickEditSymbol"/>
+          <include name="verifyCallingYou"/>
+          <include name="verifyWrongOTP"/>
+          <include name="verifyDeviceLocationPopup"/>
+          <include name="verifyTroubleSignLink"/>
+          <include name="verifyOTPEnterPageHeader"/>
+          <include name="verifyLanguageLelection"/>
+          <include name="verifyNonNumericOTP"/>
+          <include name="verifyTextBoxEditable"/>
+          <include name="initApplication"/>
+          <include name="verifyHomePage"/>
+          <include name="verifyLocationAllowBtn"/>
+          <include name="verifySubmitBtnEnable"/>
+          <include name="verifyGetOtpCallBtn"/>
+          <include name="verifyValidPhoneNumberEntry"/>
+          <include name="verifyClickSubmitBtn"/>
+        </methods>
+      </class> <!-- com.Niki_Old.TestCases.Login -->
+      <class name="com.Niki_Old.TestCases.AboutAndUpdate">
+        <methods>
+          <include name="verifyUpdate"/>
+          <include name="initApplication"/>
+          <include name="verifyTermsAndConditionLink"/>
+          <include name="verifyAboutPageElements"/>
+          <include name="verifyPartnerLink"/>
+          <include name="verifyHowNikiWorksLink"/>
+          <include name="verifyAboutLinkFunctionality"/>
+          <include name="verifyAboutLink"/>
+        </methods>
+      </class> <!-- com.Niki_Old.TestCases.AboutAndUpdate -->
+    </classes>
+  </test> <!-- Niki-Android_App_English(failed) -->
+</suite> <!-- Failed suite [NikiAndroidApp_English] -->
