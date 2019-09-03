@@ -1,0 +1,227 @@
+2019-08-30 16:54:52,585 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 16:55:13,789 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 16:55:14,177 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:18:28,616 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 18:18:44,645 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 18:18:58,287 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:18:59,465 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 18:19:03,434 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 18:19:07,300 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 18:19:09,423 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 18:19:32,807 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 18:19:49,734 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 18:20:14,549 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 18:20:14,981 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:20:15,106 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 18:20:15,546 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 18:20:15,957 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 18:20:16,224 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 18:20:19,606 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 18:28:59,523 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 18:29:15,204 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 18:29:18,409 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:29:18,574 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 18:29:18,966 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 18:29:19,331 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 18:29:19,574 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 18:29:22,964 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 18:29:23,847 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 18:29:23,977 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 18:29:24,247 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 18:33:51,618 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 18:34:07,427 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 18:34:07,896 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:34:08,021 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 18:34:08,438 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 18:34:08,857 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 18:34:09,142 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 18:34:12,520 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 18:34:13,462 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 18:34:13,579 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 18:34:13,897 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 18:34:31,285 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-30 18:37:10,528 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 18:37:26,036 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 18:37:26,469 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:37:26,597 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 18:37:27,155 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 18:37:27,557 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 18:37:27,813 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 18:37:28,759 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 18:37:29,706 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 18:37:29,846 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 18:37:30,105 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 18:37:51,163 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-30 18:38:03,834 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-08-30 18:48:49,564 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 18:49:05,102 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 18:49:05,634 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:49:05,771 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 18:49:06,218 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 18:49:06,608 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 18:49:06,836 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 18:49:10,234 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 18:49:11,207 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 18:49:11,355 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 18:49:11,597 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 18:49:32,244 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-30 18:49:45,069 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-08-30 18:53:15,955 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 18:53:31,156 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 18:53:31,663 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 18:53:31,795 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 18:53:32,300 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 18:53:32,699 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 18:53:32,962 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 18:53:33,853 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 18:53:34,779 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 18:53:34,899 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 18:53:35,148 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 18:53:55,859 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-30 18:54:08,262 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-08-30 18:54:09,016 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-08-30 18:54:10,786 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-08-30 19:05:17,072 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 19:05:32,334 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 19:05:32,854 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 19:05:32,999 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 19:05:33,472 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 19:05:33,867 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 19:05:34,156 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 19:05:37,536 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 19:05:38,571 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 19:05:38,708 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 19:05:38,957 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 19:05:52,450 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-30 19:06:04,711 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-08-30 19:06:05,473 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-08-30 19:06:07,165 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-08-30 19:06:42,255 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-08-30 19:06:43,124 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-08-30 19:22:29,595 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 19:22:46,455 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 19:22:49,596 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 19:22:49,757 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 19:22:50,177 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 19:22:50,560 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 19:22:50,812 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 19:22:54,176 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 19:22:55,154 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 19:22:55,287 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 19:22:55,533 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 19:23:09,753 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-30 19:23:22,757 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-08-30 19:23:23,494 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-08-30 19:23:25,310 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-08-30 19:24:00,409 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-08-30 19:24:01,305 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-08-30 19:36:07,699 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-30 19:36:27,261 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-30 19:36:27,680 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-30 19:36:27,817 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-30 19:36:28,295 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-30 19:36:28,660 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-30 19:36:28,921 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-30 19:36:32,309 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-30 19:36:33,305 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-30 19:36:33,435 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-30 19:36:33,689 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-30 19:36:47,933 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-30 19:37:00,246 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-08-30 19:37:00,993 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-08-30 19:37:02,733 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-08-30 19:37:37,828 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-08-30 19:37:38,704 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-08-31 19:48:06,512 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-08-31 19:48:27,536 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-08-31 19:48:27,866 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-08-31 19:48:28,038 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-08-31 19:48:28,499 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-08-31 19:48:28,891 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-08-31 19:48:29,127 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-08-31 19:48:32,535 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-08-31 19:48:33,615 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-08-31 19:48:33,779 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-08-31 19:48:34,073 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-08-31 19:48:49,014 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-08-31 19:49:01,262 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-08-31 19:49:02,028 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-08-31 19:49:04,570 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-08-31 19:49:39,664 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-08-31 19:49:40,521 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 11:06:05,832 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 11:06:31,938 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 11:06:42,173 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 11:06:43,654 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 11:06:52,975 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 11:06:58,687 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 11:07:02,481 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 11:07:11,301 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 11:07:26,343 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 11:07:27,848 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 11:07:32,036 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 11:08:06,693 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 11:08:23,129 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 11:08:23,916 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 11:08:35,409 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-09-03 11:09:10,531 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-09-03 11:09:11,418 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 11:10:57,048 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 11:11:14,462 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 11:12:06,938 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 11:12:30,035 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 11:12:30,487 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 11:12:30,630 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 11:12:31,064 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 11:12:31,491 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 11:12:31,821 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 11:12:35,252 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 11:12:36,277 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 11:12:36,435 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 11:12:36,715 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 11:13:02,184 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 11:13:14,483 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 11:13:15,247 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 11:13:17,071 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-09-03 11:13:52,166 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-09-03 11:13:53,034 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 11:56:07,371 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 11:56:29,170 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 11:56:39,579 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 11:56:41,081 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 11:56:44,106 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 11:56:47,518 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 11:56:50,041 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 11:56:57,220 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 11:57:09,212 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 11:57:11,729 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 11:57:16,064 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 11:57:59,396 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 11:58:18,693 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 11:58:19,455 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 12:03:32,740 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 12:03:56,864 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 12:04:04,618 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 12:04:06,105 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 12:04:09,874 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 12:04:14,229 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 12:04:17,367 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 12:04:25,322 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 12:04:40,349 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 12:04:42,083 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 12:04:44,957 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 12:05:19,037 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 12:05:40,745 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 12:05:41,498 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 12:06:46,968 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-09-03 12:06:47,869 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 12:08:03,621 - pageObjects.SignUpElements -INFO - Alpha Numeric Key not allowed
+2019-09-03 12:09:02,036 - pageObjects.SignUpElements -INFO - Wrong OTP entered
+2019-09-03 12:09:34,865 - pageObjects.SignUpElements -INFO - User wants to change the phone number
+2019-09-03 12:10:26,046 - pageObjects.SignUpElements -INFO - Re Entered Phone Number
+2019-09-03 12:10:45,448 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 12:11:27,223 - pageObjects.SignUpElements -INFO - Entered OTP
+2019-09-03 12:13:57,010 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 12:14:28,454 - pageObjects.SignUpElements -INFO - App Allow Button Clicked
+2019-09-03 12:15:11,642 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 12:15:57,494 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup

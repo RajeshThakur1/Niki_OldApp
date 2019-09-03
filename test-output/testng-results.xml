@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120849" started-at="2019-09-03T05:42:06Z" finished-at="2019-09-03T05:44:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120849" started-at="2019-09-03T05:42:06Z" finished-at="2019-09-03T05:44:07Z">
+      <class name="com.Niki_Old.TestCases.Login">
+        <test-method status="PASS" signature="initApplication()[pri:0, instance:com.Niki_Old.TestCases.Login@694e1548]" name="initApplication" is-config="true" duration-ms="23119" started-at="2019-09-03T05:42:06Z" finished-at="2019-09-03T05:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:1, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyHomePage" duration-ms="5192" started-at="2019-09-03T05:42:30Z" finished-at="2019-09-03T05:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method status="PASS" signature="verifyLanguageLelection()[pri:2, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyLanguageLelection" duration-ms="2864" started-at="2019-09-03T05:42:35Z" finished-at="2019-09-03T05:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageLelection -->
+        <test-method status="PASS" signature="verifyTextBoxEditable()[pri:3, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyTextBoxEditable" duration-ms="24618" started-at="2019-09-03T05:42:38Z" finished-at="2019-09-03T05:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTextBoxEditable -->
+        <test-method status="PASS" signature="verifyValidPhoneNumberEntry()[pri:4, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyValidPhoneNumberEntry" duration-ms="11740" started-at="2019-09-03T05:43:02Z" finished-at="2019-09-03T05:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidPhoneNumberEntry -->
+        <test-method status="PASS" signature="verifySubmitBtnEnable()[pri:5, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifySubmitBtnEnable" duration-ms="568" started-at="2019-09-03T05:43:14Z" finished-at="2019-09-03T05:43:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubmitBtnEnable -->
+        <test-method status="PASS" signature="verifyClickSubmitBtn()[pri:6, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyClickSubmitBtn" duration-ms="190" started-at="2019-09-03T05:43:15Z" finished-at="2019-09-03T05:43:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickSubmitBtn -->
+        <test-method status="PASS" signature="verifyOTPEnterPageHeader()[pri:7, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyOTPEnterPageHeader" duration-ms="1819" started-at="2019-09-03T05:43:15Z" finished-at="2019-09-03T05:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOTPEnterPageHeader -->
+        <test-method status="PASS" signature="verifyGetOtpCallBtn()[pri:8, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyGetOtpCallBtn" duration-ms="35094" started-at="2019-09-03T05:43:17Z" finished-at="2019-09-03T05:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetOtpCallBtn -->
+        <test-method status="PASS" signature="verifyCallingYou()[pri:9, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyCallingYou" duration-ms="864" started-at="2019-09-03T05:43:52Z" finished-at="2019-09-03T05:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCallingYou -->
+        <test-method status="PASS" signature="verifyTroubleSignLink()[pri:10, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyTroubleSignLink" duration-ms="9064" started-at="2019-09-03T05:43:53Z" finished-at="2019-09-03T05:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTroubleSignLink -->
+        <test-method status="PASS" signature="verifyWrongOTP()[pri:11, instance:com.Niki_Old.TestCases.Login@694e1548]" name="verifyWrongOTP" duration-ms="5669" started-at="2019-09-03T05:44:02Z" finished-at="2019-09-03T05:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWrongOTP -->
+      </class> <!-- com.Niki_Old.TestCases.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
