@@ -225,3 +225,286 @@
 2019-09-03 12:14:28,454 - pageObjects.SignUpElements -INFO - App Allow Button Clicked
 2019-09-03 12:15:11,642 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
 2019-09-03 12:15:57,494 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 12:44:11,762 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 12:44:31,624 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 12:45:18,797 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 12:45:42,507 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 12:45:42,932 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 12:45:43,214 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 12:45:43,706 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 12:45:44,116 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 12:45:44,357 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 12:45:47,708 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 12:45:48,654 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 12:45:48,771 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 12:45:49,015 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 12:46:09,919 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 12:46:22,209 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 12:46:22,984 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 12:47:28,547 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-09-03 12:47:29,491 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 12:47:50,513 - pageObjects.SignUpElements -INFO - Alpha Numeric Key not allowed
+2019-09-03 12:48:01,971 - pageObjects.SignUpElements -INFO - Wrong OTP entered
+2019-09-03 12:48:01,981 - pageObjects.SignUpElements -INFO - User wants to change the phone number
+2019-09-03 12:48:15,680 - pageObjects.SignUpElements -INFO - Re Entered Phone Number
+2019-09-03 12:48:20,911 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 12:48:33,830 - pageObjects.SignUpElements -INFO - Entered OTP
+2019-09-03 12:48:36,104 - com.Niki_Old.TestCases.Login -INFO - 'Get Started' Screen appeared properly
+2019-09-03 12:49:02,834 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 12:49:16,100 - pageObjects.SignUpElements -INFO - App Allow Button Clicked
+2019-09-03 12:49:37,258 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 12:49:48,635 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 12:49:59,839 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 12:50:11,162 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 13:16:23,931 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 13:16:43,947 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 13:16:52,668 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 13:21:27,217 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 13:22:08,040 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 13:22:26,658 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 13:22:38,280 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 14:27:58,891 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 14:28:15,667 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 14:28:29,702 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 14:30:42,165 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 14:31:05,309 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 14:31:14,193 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 14:31:35,266 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 14:31:42,871 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 14:39:52,654 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 14:40:08,670 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 14:40:33,106 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 14:40:43,200 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 14:40:49,147 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 14:41:33,243 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 14:47:05,898 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 14:47:21,759 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 14:47:21,816 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 14:47:25,589 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 14:47:25,674 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 14:47:58,240 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 14:49:19,791 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 14:49:39,356 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 14:49:39,421 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 14:49:42,056 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 14:49:42,133 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 14:49:54,826 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 14:53:08,556 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 14:53:24,788 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 14:53:24,851 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 14:53:27,988 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 14:53:28,081 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 14:53:49,677 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 14:54:11,858 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 14:54:14,164 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 14:54:20,706 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 15:04:27,564 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 15:04:43,684 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 15:04:43,753 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:04:47,816 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 15:04:48,025 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 15:05:03,905 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 15:05:25,547 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 15:05:26,609 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 15:05:31,750 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 15:05:48,750 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Terms and Conditition page
+2019-09-03 15:05:50,489 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back button appeared properly
+2019-09-03 15:05:50,826 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:13:27,294 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 15:13:43,665 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 15:13:43,750 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:13:45,503 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 15:13:45,584 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 15:13:53,371 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 15:14:03,492 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 15:14:04,693 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 15:14:10,325 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 15:14:28,336 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Terms and Conditition page
+2019-09-03 15:14:29,369 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back button appeared properly
+2019-09-03 15:14:29,702 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:15:05,427 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Mail details are correct
+2019-09-03 15:19:46,203 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 15:20:05,124 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 15:21:04,796 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 15:21:27,607 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 15:21:27,679 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:21:29,977 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 15:21:30,054 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 15:21:37,903 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 15:21:46,313 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 15:21:46,415 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 15:21:49,543 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 15:21:54,783 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Terms and Conditition page
+2019-09-03 15:21:54,882 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back button appeared properly
+2019-09-03 15:21:54,882 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:22:14,077 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Mail details are correct
+2019-09-03 15:23:16,900 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:28:02,151 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 15:28:18,043 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 15:28:18,114 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:28:20,606 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 15:28:20,684 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 15:28:28,482 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 15:28:34,291 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 15:28:34,373 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 15:28:37,488 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 15:28:41,783 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Terms and Conditition page
+2019-09-03 15:28:41,883 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back button appeared properly
+2019-09-03 15:28:41,883 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:29:00,336 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Mail details are correct
+2019-09-03 15:29:36,572 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:44:02,382 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 15:44:20,701 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 15:44:21,184 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 15:44:21,321 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 15:44:21,738 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 15:44:22,206 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 15:44:22,434 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 15:44:25,817 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 15:44:25,835 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:44:57,215 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 15:44:57,353 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 15:44:57,591 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 15:45:47,682 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 15:46:30,297 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 15:47:30,802 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 15:47:30,806 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 15:48:01,438 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-09-03 15:49:06,605 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-09-03 15:49:07,512 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 15:49:27,139 - pageObjects.SignUpElements -INFO - Alpha Numeric Key not allowed
+2019-09-03 15:49:38,507 - pageObjects.SignUpElements -INFO - Wrong OTP entered
+2019-09-03 15:49:38,511 - pageObjects.SignUpElements -INFO - User wants to change the phone number
+2019-09-03 15:49:52,172 - pageObjects.SignUpElements -INFO - Re Entered Phone Number
+2019-09-03 15:49:57,393 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 15:50:10,116 - pageObjects.SignUpElements -INFO - Entered OTP
+2019-09-03 15:50:11,919 - com.Niki_Old.TestCases.Login -INFO - 'Get Started' Screen appeared properly
+2019-09-03 15:50:38,882 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 15:50:52,104 - pageObjects.SignUpElements -INFO - App Allow Button Clicked
+2019-09-03 15:51:13,407 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 15:51:25,001 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 15:51:36,300 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 15:51:47,665 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 15:54:49,348 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 15:55:05,972 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 15:58:29,448 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:01:02,869 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - initilizing framework
+2019-09-03 16:01:18,229 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - TimeOut:30
+2019-09-03 16:01:26,713 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:01:35,812 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 16:01:37,389 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 16:01:52,321 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 16:02:05,223 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 16:02:05,296 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 16:02:08,424 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 16:02:13,513 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Terms and Conditition page
+2019-09-03 16:02:13,604 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back button appeared properly
+2019-09-03 16:02:13,604 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:02:44,512 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Mail details are correct
+2019-09-03 16:03:17,006 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:06:51,027 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 16:07:07,815 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 16:07:23,233 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 16:07:25,346 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 16:07:28,190 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 16:07:31,363 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 16:07:34,567 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 16:07:40,979 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 16:07:47,554 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:13:06,484 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 16:13:27,343 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 16:13:44,916 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 16:13:48,395 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 16:13:51,776 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 16:13:55,170 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 16:13:58,347 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 16:14:06,116 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 16:17:13,465 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 16:17:29,347 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 16:17:52,078 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 16:17:55,928 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 16:18:00,489 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 16:18:06,797 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 16:18:11,411 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 16:18:25,216 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 16:18:51,728 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 16:18:53,487 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 16:18:57,571 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 16:19:42,598 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 16:20:04,161 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 16:20:04,941 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 16:20:06,839 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-09-03 16:20:41,964 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-09-03 16:20:42,904 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 16:21:30,411 - pageObjects.SignUpElements -INFO - Alpha Numeric Key not allowed
+2019-09-03 16:21:49,639 - pageObjects.SignUpElements -INFO - Wrong OTP entered
+2019-09-03 16:21:57,195 - pageObjects.SignUpElements -INFO - User wants to change the phone number
+2019-09-03 16:22:44,447 - pageObjects.SignUpElements -INFO - Re Entered Phone Number
+2019-09-03 16:22:54,258 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 16:23:22,791 - pageObjects.SignUpElements -INFO - Entered OTP
+2019-09-03 16:23:35,311 - com.Niki_Old.TestCases.Login -INFO - 'Get Started' Screen appeared properly
+2019-09-03 16:24:33,421 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:24:59,790 - pageObjects.SignUpElements -INFO - App Allow Button Clicked
+2019-09-03 16:25:31,907 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:25:46,838 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:26:05,131 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:26:27,077 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:26:38,780 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:26:42,633 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 16:26:43,560 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 16:27:04,488 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 16:27:12,268 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 16:27:12,335 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 16:27:15,479 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 16:27:20,583 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Terms and Conditition page
+2019-09-03 16:27:20,682 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back button appeared properly
+2019-09-03 16:27:20,683 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:27:42,291 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Mail details are correct
+2019-09-03 16:28:28,015 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:30:14,430 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 16:30:32,660 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 16:30:33,110 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly by Default in English
+2019-09-03 16:30:33,382 - com.Niki_Old.TestCases.Login -INFO - Language Insturction Message appears properly
+2019-09-03 16:30:33,986 - com.Niki_Old.TestCases.Login -INFO - Hindi Radio button showing properly and by default its not selected
+2019-09-03 16:30:34,378 - com.Niki_Old.TestCases.Login -INFO - English Radio button showing properly and by default its not selected
+2019-09-03 16:30:34,617 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly at Home Screen
+2019-09-03 16:30:38,003 - com.Niki_Old.TestCases.Login -INFO - Without selecting any Language, NEXT button is not working
+2019-09-03 16:30:39,056 - com.Niki_Old.TestCases.Login -INFO - Niki Homepage header appeared properly in Hindi
+2019-09-03 16:30:39,188 - com.Niki_Old.TestCases.Login -INFO - Language Instruction Message appears properly in Hindi
+2019-09-03 16:30:39,480 - com.Niki_Old.TestCases.Login -INFO - Next button is displaying properly when Language selected to Hindi
+2019-09-03 16:31:00,310 - pageObjects.SignUpElements -INFO - Phone Number Entered -1234
+2019-09-03 16:31:12,530 - pageObjects.SignUpElements -INFO - Phone Number Entered -9380907374
+2019-09-03 16:31:13,265 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 16:31:15,105 - pageObjects.SignUpElements -INFO - Header On Sent OTP Page We've sent you an OTP
+2019-09-03 16:31:50,218 - com.Niki_Old.TestCases.Login -INFO - GET OTP ON CALL Button displayed
+2019-09-03 16:31:51,142 - com.Niki_Old.TestCases.Login -INFO - Getting OTP Call
+2019-09-03 16:32:10,645 - pageObjects.SignUpElements -INFO - Alpha Numeric Key not allowed
+2019-09-03 16:32:22,310 - pageObjects.SignUpElements -INFO - Wrong OTP entered
+2019-09-03 16:32:22,322 - pageObjects.SignUpElements -INFO - User wants to change the phone number
+2019-09-03 16:32:36,006 - pageObjects.SignUpElements -INFO - Re Entered Phone Number
+2019-09-03 16:32:41,222 - pageObjects.CommonElements -INFO - Clicked Submit Button
+2019-09-03 16:32:55,006 - pageObjects.SignUpElements -INFO - Entered OTP
+2019-09-03 16:32:56,977 - com.Niki_Old.TestCases.Login -INFO - 'Get Started' Screen appeared properly
+2019-09-03 16:33:23,304 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:33:36,592 - pageObjects.SignUpElements -INFO - App Allow Button Clicked
+2019-09-03 16:33:57,908 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:34:08,980 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:34:20,371 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:34:31,540 - pageObjects.CommonElements -INFO - App relaunched successfully for Popup
+2019-09-03 16:34:31,553 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:34:33,175 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Displays
+2019-09-03 16:34:33,290 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - 'About' Link Name is displays correct name
+2019-09-03 16:34:41,155 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - App Version showing Correctly
+2019-09-03 16:34:48,182 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Support page
+2019-09-03 16:34:48,254 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back Button appeared properly
+2019-09-03 16:34:51,392 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved back to About Page from 'How Niki Works' page
+2019-09-03 16:34:56,856 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Its moved to Terms and Conditition page
+2019-09-03 16:34:56,963 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Back button appeared properly
+2019-09-03 16:34:56,963 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:35:11,006 - com.Niki_Old.TestCases.AboutAndUpdate -INFO - Mail details are correct
+2019-09-03 16:35:25,176 - pageObjects.ChatPageHeader -INFO - Clicking on Profile Button
+2019-09-03 16:38:36,640 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 16:38:52,466 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30
+2019-09-03 16:45:01,184 - pageObjects.SignUpElements -INFO - User wants to change the phone number
+2019-09-03 16:52:29,929 - com.Niki_Old.TestCases.Login -INFO - initilizing framework
+2019-09-03 16:52:53,469 - com.Niki_Old.TestCases.Login -INFO - TimeOut:30

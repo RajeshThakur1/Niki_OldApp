@@ -1,0 +1,13 @@
+com\Niki_Old\TestCases\Login.class
+generic\Reporting.class
+pageObjects\SignUpElements.class
+pageObjects\ChatServiceElements.class
+pageObjects\ChatPageHeader.class
+pageObjects\CommonElements.class
+com\Niki_Old\TestCases\AboutAndUpdate.class
+pageObjects\ProfileElements.class
+generic\JavaUtills.class
+generic\Property.class
+com\Nilki_Old\CommonPage\BasePage.class
+com\Niki_Old\AutomationConstants\BaseTest.class
+com\Niki_Old\AutomationConstants\AutomationConstants.class

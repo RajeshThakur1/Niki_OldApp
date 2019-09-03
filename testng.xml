@@ -10,6 +10,8 @@
   
   <test name="Niki-Android_App_English">
     <classes>
+    
+    
       <class name="com.Niki_Old.TestCases.Login">
       <methods>
       	<include name="verifyHomePage" />
@@ -23,8 +25,35 @@
       	<include name="verifyCallingYou" />
       	<include name="verifyTroubleSignLink" />
       	
+      	<include name="verifyNonNumericOTP" />
+      	<include name="verifyWrongOTP" />
+      	<include name="verifyClickEditSymbol" />
+      	<include name="verifyReEnterPhNo" />
+      	<include name="verifyCorrectOTP" />
+      	<include name="verifyTroubleSignLink" />
+      	<include name="verifyGetStartedScreen" />
+      	<include name="verifyDeviceLocationPopup" />
+      	<include name="verifyLocationAllowBtn" />
+      	<include name="verifyAllowAppPopup" />
       </methods>
       </class>
+      
+      <class name="com.Niki_Old.TestCases.AboutAndUpdate">
+      	<methods>
+      		<include name="verifyAboutLink" />
+			<include name="verifyAboutPageElements" />
+			<include name="verifyHowNikiWorksLink" />
+			<include name="verifyTermsAndConditionLink" />
+			<include name="verifyPartnerLink" />
+			<include name="verifyUpdate" />
+			<include name="verifyAboutLinkFunctionality" />
+      		
+      	</methods>
+      
+      
+      
+      </class>
+      
       
       
     </classes>

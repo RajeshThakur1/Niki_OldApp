@@ -42,6 +42,7 @@ public class BaseTest implements AutomationConstants{
 	public static String expMonth;
 	public static String expYear;
 	public static String CVV;
+	public static String version;
 	
 	public static AndroidDriver<WebElement> driver;
 	
@@ -76,7 +77,7 @@ public class BaseTest implements AutomationConstants{
 		expMonth=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE, "expMonth");
 		expYear=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE, "expYear");
 		CVV=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE, "CVV");
-		
+		version=Property.getPropertyValue(CONFIG_PATH+CONFIG_FILE, "version");
 		
 	}
 	

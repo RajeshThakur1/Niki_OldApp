@@ -18,7 +18,7 @@ import pageObjects.SignUpElements;
  */
 
 public class Login extends BaseTest{
-	@Test(priority = 1)
+	@Test
 	public void verifyHomePage() {
 	
 		SignUpElements sign = new SignUpElements();
@@ -59,7 +59,7 @@ public class Login extends BaseTest{
 			
 	}
 	
-	@Test(priority = 2)
+	@Test
 	public void verifyLanguageLelection() {
 		SignUpElements sign = new SignUpElements();
 		
@@ -101,7 +101,7 @@ public class Login extends BaseTest{
 	
 	}
 	
-	@Test(priority = 3)
+	@Test
 	public void verifyTextBoxEditable() {
 		
 		SignUpElements sign = new SignUpElements();
@@ -121,14 +121,14 @@ public class Login extends BaseTest{
 		
 	}
 	
-	@Test(priority = 4)
+	@Test
 	public void verifyValidPhoneNumberEntry() {
 		SignUpElements sign = new SignUpElements();
 		System.out.println("Entering a valid phone number");
 		sign.enterPhNo(un);
 	}
 	
-	@Test(priority = 5)
+	@Test
 	public void verifySubmitBtnEnable() {
 		CommonElements common = new CommonElements();
 		boolean sendBtn = common.SubmitBtn.isEnabled();
@@ -141,13 +141,13 @@ public class Login extends BaseTest{
 
 	}
 	
-	@Test(priority = 6)
+	@Test
 	public void verifyClickSubmitBtn() {
 		CommonElements common = new CommonElements();
 		common.clickSubmit();
 	}
 	
-	@Test(priority = 7)
+	@Test
 	public void verifyOTPEnterPageHeader() {
 		SoftAssert soft = new SoftAssert();
 		SignUpElements sign = new SignUpElements();
@@ -158,7 +158,7 @@ public class Login extends BaseTest{
 	}
 
 
-	@Test(priority = 8)
+	@Test
 	public void verifyGetOtpCallBtn() throws Exception {
 		SoftAssert soft = new SoftAssert();
 		Thread.sleep(35000);
@@ -170,7 +170,7 @@ public class Login extends BaseTest{
 		soft.assertAll();
 	}
 	
-	@Test(priority = 9)
+	@Test
 	public void verifyCallingYou() {
 		SoftAssert soft = new SoftAssert();
 		SignUpElements sign = new SignUpElements();
@@ -185,7 +185,7 @@ public class Login extends BaseTest{
 
 	}
 	
-	@Test(priority = 10)
+	@Test
 	public void verifyTroubleSignLink() throws Exception {
 		SoftAssert soft = new SoftAssert();
 		SignUpElements sign = new SignUpElements();
@@ -203,34 +203,34 @@ public class Login extends BaseTest{
 		CommonElements common = new CommonElements();
 		common.threadSleep(3000);
 		common.clickDeviceBackButton();
-
+		common.clickDeviceBackButton();
 		soft.assertAll();
 	}
 
 	
 	
 
-	@Test(priority = 11)
+	@Test
 	public void verifyNonNumericOTP() {
 		SignUpElements sign = new SignUpElements();
 		sign.enterAlphaNumericOTP();
 
 	}
-	@Test(priority = 12)
+	@Test
 	public void verifyWrongOTP() {
 		SignUpElements sign = new SignUpElements();
 		CommonElements common = new CommonElements();
-		common.clickDeviceBackButton();
+		//common.clickDeviceBackButton();
 		sign.enterWrongOTP();
 	}
 
 	
-	@Test(priority = 13)
+	@Test
 	public void verifyClickEditSymbol() {
 		SignUpElements sign = new SignUpElements();
 		sign.clickEditSymbol();
 	}
-	@Test(priority = 14)
+	@Test
 	public void verifyReEnterPhNo() throws Exception {
 		SignUpElements sign = new SignUpElements();
 		sign.reEnterPhNo("9684759374");
@@ -238,14 +238,14 @@ public class Login extends BaseTest{
 		common.clickSubmit();
 	}
 	
-	@Test(priority = 15)
+	@Test
 	public void verifyCorrectOTP() throws Exception {
 		SignUpElements sign = new SignUpElements();
 		sign.enterOTP();
 	}
 	
 	
-	@Test(priority = 16)
+	@Test
 	public void verifyGetStartedScreen() {
 
 		SignUpElements sign = new SignUpElements();
@@ -259,7 +259,7 @@ public class Login extends BaseTest{
 
 	}
 	
-	@Test(priority = 17)
+	@Test
 	public void verifyDeviceLocationPopup() {
 		SoftAssert soft = new SoftAssert();
 		CommonElements common = new CommonElements();
@@ -270,7 +270,7 @@ public class Login extends BaseTest{
 
 	}
 	
-	@Test(priority = 18)
+	@Test
 	public void verifyLocationAllowBtn() {
 		CommonElements common = new CommonElements();
 		ChatServiceElements chat = new ChatServiceElements();
@@ -290,7 +290,7 @@ public class Login extends BaseTest{
 	}
 
 	
-	@Test(priority = 19)
+	@Test
 	public void verifyAllowAppPopup() {
 		CommonElements common = new CommonElements();
 		ChatServiceElements chat = new ChatServiceElements();
